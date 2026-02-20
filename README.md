@@ -5,4 +5,4 @@ An android honeypot that listens for savage activity and alerts on command line 
 <br>
 • cd androidhoneypot
 <br>
-• python androidhonypot.py
+• python androidhoneypot.py
