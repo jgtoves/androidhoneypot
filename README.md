@@ -10,7 +10,4 @@ An android honeypot that listens for savage activity and alerts on command line 
 <br>
 <br>
 Built using Google Gemini.
-<br>
-<br>
-Built using Google Gemini.
 
