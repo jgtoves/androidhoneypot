@@ -1,5 +1,5 @@
 # androidhoneypot
-An android honeypot that listens for malicious activity and alerts on command line IP, port, and time of event. Good for watch locally hosted websites used as a honeypot.
+An android honeypot that listens for malicious activity and alerts on command line IP, port, and time of event. 
 <br>
 <br>
 • git clone https://github.com/jgtoves/androidhoneypot
